@@ -2,6 +2,9 @@
 
 
 [Download the HTML file from Google Drive](https://drive.google.com/file/d/1ukbT6OOFnflmc8qdK8k9gaQJ7OVX1M2i/view?usp=sharing)
+
+
+
 ## 🎯 Goal Overview
 
 This analysis focuses on understanding suppliers' usage patterns in warehouse services 📊. By analyzing these trends, we can identify high-potential opportunities to enhance targeted advertising strategies, which in turn drive better profitability 💰. Leveraging insights from this data enables the company to optimize its marketing initiatives toward suppliers with a greater likelihood of engaging with warehouse offerings, ultimately leading to increased revenue.
