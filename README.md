@@ -1,7 +1,7 @@
 # 📦 Data-Driven Warehouse Usage Analysis for Targeted Supplier Engagement
 
 
-[Download the HTML file from Google Drive](https://drive.google.com/file/d/1ibgF8fg09Ms9dXdiEQCRqoPbBTpHqGYo/view?usp=sharing)
+[Download the HTML file from Google Drive](https://drive.google.com/drive/folders/1kSfj3Umo7gS4bIFF5QUI7UTXc24gl6MW?usp=sharing)
 
 
 
@@ -34,7 +34,7 @@ This analysis focuses on understanding suppliers' usage patterns in warehouse se
    . Profit Potential: with this model we assume that our advertisment will be targeted at high and mid suppliers which will help in the growth of the company.       
    .Scalable Strategy: The insights from this project can serve as a blueprint for future efforts to further refine advertising strategies across other segments or products.
 
-5. [Data cleaning and Pre processing](https://drive.google.com/file/d/1i8TQtDvHUmPoKaF1uRJ95qdWd5dzKua-/view?usp=sharing):
+5. [Data cleaning and Pre processing](https://drive.google.com/drive/folders/1kSfj3Umo7gS4bIFF5QUI7UTXc24gl6MW?usp=sharing):
 
 Data quality is essential for accurate analysis and insights, and I bring a deep understanding of data cleaning and preprocessing to ensure datasets are analysis-ready.
 **My experience** covers a variety of tasks, including:
